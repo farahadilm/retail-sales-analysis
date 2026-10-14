@@ -136,3 +136,5 @@ select
       count(*) as num
 from retail_sales_tb
 group by shift;
+
+-- the end 
